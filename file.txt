@@ -1,2 +1,3 @@
 nada
 bug identificado
+bug resolvido
